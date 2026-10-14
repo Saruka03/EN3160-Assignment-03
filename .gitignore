@@ -1,0 +1,12 @@
+# Downloaded datasets
+data/
+notebooks/data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large model checkpoints (optional)
